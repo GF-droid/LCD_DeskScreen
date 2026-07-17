@@ -1,0 +1,3 @@
+/home/kali/桌面/LCD_DeskScreen/study/save_input/bulid/CMakeFiles/main.dir
+/home/kali/桌面/LCD_DeskScreen/study/save_input/bulid/CMakeFiles/edit_cache.dir
+/home/kali/桌面/LCD_DeskScreen/study/save_input/bulid/CMakeFiles/rebuild_cache.dir
