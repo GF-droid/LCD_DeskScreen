@@ -7,7 +7,7 @@
 
 int main() {
   int pipefd[2];
-  if(pipe(pipefd) == -1) {
+  if(pipe(pipefd) == -1) {  // 创建匿名管道
     perror("pipe");
     exit(EXIT_FAILURE);
   }
