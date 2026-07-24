@@ -1,0 +1,14 @@
+# 编译产物目录
+**/bulid/
+
+# 编译生成的文件
+*.o
+*.out
+*.bin
+
+# CMake 生成文件
+CMakeCache.txt
+CMakeFiles/
+
+# IDE
+.vscode/
