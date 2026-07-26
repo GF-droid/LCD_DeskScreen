@@ -6,6 +6,8 @@
 *.out
 *.bin
 
+.gitignore
+
 # CMake 生成文件
 CMakeCache.txt
 CMakeFiles/
